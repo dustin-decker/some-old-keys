@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "truffle-sandbox-dustin",
+  "private_key_id": "dcba3afe5e7da570d991916dbbd2ccf4146774ed",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC68ktL+MPvhw+6\ni6BteILN8Jmt2qzLK3qhU296VxbdP1F5UANZw8bNt//eM1ey5miLMIVirGgvNR4Q\n99DlnUnV/TiVODmtlb8zUYe7YReE5jFZ/MkQAfBfA4R1c7NBxHx2R3AXAK5V3AOp\n7kRcGKYe2wazQHdV5k0HpW2BWtLG073vfs6EMInu+nxTt8Rkdb7Un+IQyoJ7rTMY\nqxiuIn2fbUP3pxIEX23qYXvbaf6/GWD5SseatLKKVGnRjlcXmRjYuFuJqJjYdHN6\nzGf1NllWgOsZK4zLCnlPhU8tM1K1qrCYPdRtK99+ioHSgK7xmloZTxjAAzCCb7rt\nUJPInj/3AgMBAAECggEAA6wSvTv2Yqlyg6WOfIKrfxlvdgd08XYPLfASS9g+GLvP\nq+RdzHuYrMh6fDDh/h+h2hS/6f+c+aBqJhyCu/U/qAvApXMPSaZGtTQFczF7DB9B\nb5UUQKjpFyoIhg4Zwqb2EuoK/PNZzqdIYyQiWkoZqULVejE//C35QWHcfs1RP+/h\neMJdsxybXod7BtGxVSwJxY5H7zD7Zchuktf2oRb4STGh4GNZhMRqM6v1/y48V6TZ\nU1iUgbu4B/ULxy5s3qLiL6bCLZaV96o0f/DjNgTvXje1f3ssU2fDvIr4hZy9iy2G\nTiBbN+9Tl/lOedMxRQ/Tb7Gl2c0j0c7NEp6v9F0YAQKBgQD/y9rgf6EeGcvvTacZ\nyIM/374FTQqq5G6aXxnZQWSNkCOcBFKuOm0Ds1c5m+Jq1PRz09NCjHA3i0IYKYTl\naLHCXM8tqEPxQziNEPkhMXm2egHokgVtQxyQi3eh+woB1oy8AXMWllFgAreSfhKc\nHQ964peRACEOPSMp7MX1GgZR9wKBgQC7GGdihX5bKuuwfm5/nanKVtgFTfllBwnC\n5RPOIUEtaKihlTk7EMErfYl2hTeZG+M9+kQ+MvIRAHLAtUD7ez+7y+4eTOQlemt2\nGCYrzep++EFJe78m1w7TXD103mONE4lPeLLgQCQrki64Fi+twil2tV/bYW0lh3Zq\nza5M8KwCAQKBgQCEYX8EImlCx7z4OurY+CGc4/FWkvmLWa836zHYcvRUIx2at84G\nZyxV9vGUWe2CtnVQoHa8ASxuQn7RPGOPym/8k8WQ7n1DFjPlJbyZBh7kZh4ou7Fd\nS5cz40nlpaMXMm8hOWrTbLXuh1lz0hVVf+CsCyq/mx6AXPmez+/fGjndHwKBgQCG\ngFLChwmBbOenKB0z7RpE9g2yMo4ZzOd9jsWgKFP82wJvtyE/jxnvs/4AkGCZ12yT\n/7jTpjhTdKkKVMN0hvQYg9CZQ9m3/7wFV/MJBq2PvdThiO6wc2abF/Kuc7nJj8Pk\nt/aQNExMbnjbqkd4eN7qEhXpVq7qjenZeifV9CcUAQKBgG6rOqf90cxi+LP/j0BS\ngsFfbXHZLKQ50MlWo/CLxAnP1dshlK1rWcC2142dwiPWEsUYTEro4o7M7C2s5hT7\n7yK3Ba6MRYhpl+frwDT8dWQax0bnhzg8qwDVu0xpHVYJTPEiX3VKDWA5Fy20PRS8\nUVC9s6SOBmKyTHHZoRNrOmpg\n-----END PRIVATE KEY-----\n",
+  "client_email": "demo-421@truffle-sandbox-dustin.iam.gserviceaccount.com",
+  "client_id": "107707764582033976183",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/demo-421%40truffle-sandbox-dustin.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
